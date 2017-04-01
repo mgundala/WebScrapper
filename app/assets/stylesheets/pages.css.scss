@@ -1,3 +1,16 @@
 // Place all the styles related to the pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  background-color: #a57254;
+
+  .landing {
+    padding-top: 120px;
+  }
+
+  .thumbnail {
+    width: 30px;
+  }
+
+}
